@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Vibez",
+        "price": "1000",
+        "qty": 1,
+        "detail": "Vibez by Lifelong Gaming Earphones with External Mic| In-Ear Gaming Wired Headphones| Gaming Headset|Gaming Earphone with Detachable Microphone for PC, PS4, Mobiles, Tablets (VBGE01 Quest ,1 Year Warranty, Black)",
+        "image": "https://m.media-amazon.com/images/I/71JNjulkJ-L._SX679_.jpg"
+    },
+    {
+        "name": "Canon EOS 200D",
+        "price": "56000",
+        "qty": 1,
+        "detail": "24.1MP Digital SLR Camera + EF-S 18-55mm f4 is STM Lens (Black)",
+        "image": "https://m.media-amazon.com/images/I/81cEKnH692L._SX679_.jpg"
+    },
+    {
+        "name": "TP-link N300 WiFi Wireless Router",
+        "price": "619",
+        "qty": 1,
+        "detail": "TL-WR845N | 300Mbps Wi-Fi Speed | Three 5dBi high gain Antennas | IPv6 Compatible | AP/RE/WISP Mode | Parental Control | Guest Network",
+        "image": "https://m.media-amazon.com/images/I/41fQ5NSkEWL._SX679_.jpg"
+    }
+]

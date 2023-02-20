@@ -1,0 +1,37 @@
+img {
+
+    width: 160px !important;
+    height: 170px;
+}
+
+.card-title {
+    padding: 12px;
+    font-size: medium;
+    border-bottom: 1px solid gray;
+    min-height: 70px;
+}
+
+.stars {
+    display: flex;
+    align-items: center;
+
+}
+
+.stars svg {
+    color: blue;
+}
+
+.card {
+    margin: 16px;
+    height: max-content !important;
+}
+
+.flex-box {
+    margin: auto;
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+
+
+}

@@ -1,0 +1,18 @@
+.links {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.bg-blue {
+    background-color: #e3f2fd;
+}
+
+.nav-link {
+    color: black;
+    font-size: 22px;
+}
+
+.cartButton {
+    margin-top: 6px;
+}

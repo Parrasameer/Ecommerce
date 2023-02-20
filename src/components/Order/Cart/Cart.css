@@ -1,0 +1,84 @@
+.Card {
+
+
+    border: 1px solid gray;
+    margin: 20px 30px 10px 20px;
+    border-radius: 20px;
+    padding: 20px;
+    height: min-content;
+    width: 98%;
+    display: flex;
+
+}
+
+.Card1 {
+
+    width: 80% !important;
+    display: flex;
+    align-items: center;
+
+
+}
+
+
+
+.btn-group {
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 30px;
+    border-radius: 20px;
+
+    margin-left: 10px;
+    width: min-content;
+
+}
+
+.btn-plus {
+    padding-bottom: 10px;
+
+}
+
+
+
+.btn-minus {
+    padding-bottom: 10px;
+}
+
+
+.btn-group .quantity {
+    background-color: aqua;
+    border: 2px solid aqua;
+
+
+
+
+}
+
+
+
+
+.Card2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+.image {
+
+    width: 60px !important;
+    height: 50px !important;
+}
+
+.delete {
+    border-radius: 20px !important;
+    height: min-content;
+
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
